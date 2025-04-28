@@ -1,12 +1,12 @@
 # Hi, I'm Rajesh
-### Software Developer | Golang Enthusiast | Cloud & AI Explorer
+### Software Developer | Golang Enthusiast | React | Google Cloud Platform
 
 ---
 
 ## About Me
 
-- 🔭 Currently building AI-powered backend products in Go  
-- 🌱 Exploring scalable system designs, Web3, and cloud-native patterns  
+- 🔭 Currently building fintech product : backend products in Go 
+- 🌱 Exploring scalable system designs and cloud-native patterns  
 - 💬 Passionate about writing clean code, solving real-world problems & mentoring  
 - 📫 Contact: [work.kumar.rajesh@gmail.com](mailto:work.kumar.rajesh@gmail.com)  
 - 🕶️ Fun Fact: I automate life with bots, scripts, and LLMs
